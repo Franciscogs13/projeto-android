@@ -9,6 +9,7 @@
 }
 body{
     background-color: #022422;
+    overflow-x: hidden;
 }
 header{
     background-image: linear-gradient(to top, #0f3f3d, #489490);
